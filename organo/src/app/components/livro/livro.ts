@@ -7,7 +7,7 @@ genero: GeneroLiterario
 }
 
 export interface GeneroLiterario{
-  id: String;
+  id: string;
   value: string;
   livros: Livro[]
 }
