@@ -117,7 +117,12 @@
         }
       }
     }
+
   },
+   "i18n":{
+        "sourceLocale": "pt"
+
+      },
   "cli": {
     "analytics": false
   }
